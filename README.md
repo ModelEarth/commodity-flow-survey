@@ -2,7 +2,7 @@
 
 [Foodflows.org by County](https://foodflows.org/)  
 
-FoodFlow IO data originates from the [2019 paper](http://mkonar.cee.illinois.edu/36_Lin_ERL_2019.pdf), which uses the the Commodity Flow Survey (CFS).
+[The FoodFlow Paper](https://iopscience.iop.org/article/10.1088/1748-9326/ac5270) uses IO [5-year datasets](https://databank.illinois.edu/datasets/IDB-9585947) and references [Lin's 2019 paper](http://mkonar.cee.illinois.edu/36_Lin_ERL_2019.pdf), which uses the the Commodity Flow Survey (CFS).
 
 The Commodity Flow Survey (CFS) survey includes zip codes.  
 
