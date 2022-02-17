@@ -16,3 +16,15 @@ Similar parsing occurs in our [zip usa repo io folder](https://github.com/modele
 Methodology](https://www2.census.gov/programs-surveys/cfs/technical-documentation/methodology/2017cfsmethodology.pdf)
 
 [CFS Download](https://www.census.gov/data/datasets/2017/econ/cfs/historical-datasets.html)
+
+
+TO DO:
+
+Pull down the raw data from the "CFS Download" link above.  
+Place the raw data at "process/csf/source"
+
+Add a .gitignore file containing:  
+/process/csf/source/*
+
+Send the zip code output to the following format:
+community-flow-survey/zipcodes/3/0/3/1/8/30318-naics6-2018.csv
