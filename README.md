@@ -27,4 +27,4 @@ Add a .gitignore file containing:
 /process/cfs/source/*
 
 Send the zip code output to the following format:
-commodity-flow-survey/us/zipcode/naics/3/0/3/1/8/30318-cfs-naics6-2018.csv
+commodity-flow-survey/us/zipcode/naics/3/0/3/1/5/30315-cfs-naics6-2018.csv
