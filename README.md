@@ -24,7 +24,7 @@ Pull down the raw data from the "CFS Download" link above.
 Place the raw data at "process/csf/source"
 
 Add a .gitignore file containing:  
-/process/csf/source/*
+/process/cfs/source/*
 
 Send the zip code output to the following format:
 commodity-flow-survey/us/zipcodes/naics/3/0/3/1/8/30318-naics6-2018.csv
