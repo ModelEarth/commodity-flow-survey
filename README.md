@@ -1,4 +1,4 @@
-# Commodity Flow Survey - By Zip
+# Commodity Flow Survey - NAICS
 
 [Foodflows.org by County](https://foodflows.org/)  
 
