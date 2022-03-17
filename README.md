@@ -45,7 +45,7 @@ Each subarea consists of at least one county and at least 10,000 CFS shipments.
 
 The zip codes do not appear to be published. (We could be wrong.)
 
-Here's a description of how naics are used to estimate the zip code freight levels. This is from 2015 ([source])[https://onlinepubs.trb.org/onlinepubs/circulars/ec205.pdf]:
+Here's a description of how naics are used to estimate the zip code freight levels. This is from 2015 ([source](https://onlinepubs.trb.org/onlinepubs/circulars/ec205.pdf]:
 
 "The authors used the CFS 2007 microdata at the Census Research Data Center in New
 York to estimate freight mode choice models. CFS data, together with the shipment size, value,
