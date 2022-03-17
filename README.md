@@ -27,8 +27,8 @@ Add a .gitignore file containing:
 /process/cfs/source/*
 
 Send the output to the following format:  
-us/county/cfs/[2-digit state]/[3-digit county]/origin/  
-us/county/cfs/[2-digit state]/[3-digit county]/destination/  
+us/county/cfs/[2-digit state]/[3-digit county]/origin/[2-digit state]-[3-digit county]-cfs-naics6-2018.csv  
+us/county/cfs/[2-digit state]/[3-digit county]/destination/[2-digit state]-[3-digit county]-cfs-naics6-2018.csv  
 
 Some county folders will be 99999.  
 
