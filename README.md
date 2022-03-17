@@ -36,9 +36,9 @@ State 56 is Wyoming. (So the higher numbered island territories are not included
 https://www.nrcs.usda.gov/wps/portal/nrcs/detail/?cid=nrcs143_013696  
 
 
-Here's an breakdown of the CFS Areas into subareas, which includes a crosswalk from county to CFS subarea.
+Here's an breakdown of the CFS Areas into subareas, which includes a crosswalk from county to CFS subarea.  
 [132 CFS Areas are divided into 329 Subareas](https://www.census.gov/data/experimental-data-products/commodity-flow-survey-subarea-estimates.html)  
-Each subarea consists of at least one county and at least 10,000 CFS shipments.
+Each subarea consists of at least one county and at least 10,000 CFS shipments.  
 Better proximity than the [crosswalk from county to CFS area](https://www.census.gov/programs-surveys/cfs/technical-documentation/geographies.html)  
 
 [2017 CFS Survey Methodology](https://www.bts.dot.gov/sites/bts.dot.gov/files/docs/browse-statistical-products-and-data/surveys/commodity-flow-survey/225026/2017cfsmethodologyfinal1_1.pdf) - Describes how zip codes are used to calculate driving distances.
