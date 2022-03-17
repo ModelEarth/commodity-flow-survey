@@ -38,14 +38,14 @@ https://www.nrcs.usda.gov/wps/portal/nrcs/detail/?cid=nrcs143_013696
 Here's the [crosswalk from counties to CFS areas](https://www.census.gov/programs-surveys/cfs/technical-documentation/geographies.html)  
 
 Here's an experimental breakdown of the CFS Areas into subareas
-132 CFS Areas are divided into 329 Subareas
+[132 CFS Areas are divided into 329 Subareas](https://www.census.gov/data/experimental-data-products/commodity-flow-survey-subarea-estimates.html)  
 Each subarea consists of at least one county and at least 10,000 CFS shipments.
 
-2017 CFS Survey Methodology - Describes how zip codes are used to calculate driving distances.
+[2017 CFS Survey Methodology](https://www.bts.dot.gov/sites/bts.dot.gov/files/docs/browse-statistical-products-and-data/surveys/commodity-flow-survey/225026/2017cfsmethodologyfinal1_1.pdf) - Describes how zip codes are used to calculate driving distances.
 
 The zip codes do not appear to be published. (We could be wrong.)
 
-Here's a description of how naics are used to estimate the zip code freight levels. This is from 2015:
+Here's a description of how naics are used to estimate the zip code freight levels. This is from 2015 ([source])[https://onlinepubs.trb.org/onlinepubs/circulars/ec205.pdf]:
 
 "The authors used the CFS 2007 microdata at the Census Research Data Center in New
 York to estimate freight mode choice models. CFS data, together with the shipment size, value,
@@ -57,4 +57,4 @@ zip–zip O-D (ZOD) pairs for the analysis using a random sampling procedure tha
 overall picture of freight flows in the United States. To select ZODs, firstly the state–state O-Ds
 are selected using the CFS data. Then, the team obtains ZOD pairs using the employment data of zip codes in each state since previous research found that employment is a good indicator of freight generation. This poster summarized the methodology followed and the results obtained in selecting the potential ZODs from the CFS 2007 data."
 
-https://onlinepubs.trb.org/onlinepubs/circulars/ec205.pdf
+
