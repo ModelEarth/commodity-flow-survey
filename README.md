@@ -6,12 +6,6 @@
 
 Expands on 2019 paper: [Food flows between counties in the United States](https://iopscience.iop.org/article/10.1088/1748-9326/ab29ae/data)
 
-The Commodity Flow Survey (CFS) survey includes zip codes.  
-
-In this repo, we'll be parsing the zip codes into a .csv and .md file for each zip code.  
-
-Similar parsing occurs in our [zip usa repo io folder](https://github.com/modelearth/zip/tree/master/io).
-
 [Commodity Flow Survey
 Methodology](https://www2.census.gov/programs-surveys/cfs/technical-documentation/methodology/2017cfsmethodology.pdf)
 
