@@ -1,6 +1,6 @@
 # Commodity Flow Survey - NAICS
 
-[Foodflows.org by County](https://foodflows.org/)  
+[Foodflows.org by County](https://foodflows.org/) - By [Megan Konar](https://twitter.com/MeganKonar)
 
 [The Feb 7, 2022 FoodFlow Paper](https://iopscience.iop.org/article/10.1088/1748-9326/ac5270) uses [5-year datasets](https://databank.illinois.edu/datasets/IDB-9585947) and references [Lin's 2019 paper](http://mkonar.cee.illinois.edu/36_Lin_ERL_2019.pdf), which uses the the Commodity Flow Survey (CFS).
 
