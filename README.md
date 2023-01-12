@@ -51,4 +51,8 @@ zip–zip O-D (ZOD) pairs for the analysis using a random sampling procedure tha
 overall picture of freight flows in the United States. To select ZODs, firstly the state–state O-Ds
 are selected using the CFS data. Then, the team obtains ZOD pairs using the employment data of zip codes in each state since previous research found that employment is a good indicator of freight generation. This poster summarized the methodology followed and the results obtained in selecting the potential ZODs from the CFS 2007 data."
 
+## Bureau of Transportation Statistics
 
+[BTS Freight Flows by Highway, Rail and Waterway](https://www.bts.gov/freight-flows-highway-railway-and-waterway-2017)
+
+[BTS Georgia by the Numbers](https://www.bts.dot.gov/sites/bts.dot.gov/files/states2020/Georgia.pdf) - [More states](https://www.bts.gov/browse-statistical-products-and-data/state-transportation-statistics/state-transportation-numbers)
